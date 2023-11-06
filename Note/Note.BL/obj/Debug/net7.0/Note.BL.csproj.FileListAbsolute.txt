@@ -1,0 +1,11 @@
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\bin\Debug\net7.0\Note.BL.deps.json
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\bin\Debug\net7.0\Note.BL.dll
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\bin\Debug\net7.0\Note.BL.pdb
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\obj\Debug\net7.0\Note.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\obj\Debug\net7.0\Note.BL.AssemblyInfoInputs.cache
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\obj\Debug\net7.0\Note.BL.AssemblyInfo.cs
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\obj\Debug\net7.0\Note.BL.csproj.CoreCompileInputs.cache
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\obj\Debug\net7.0\Note.BL.dll
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\obj\Debug\net7.0\refint\Note.BL.dll
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\obj\Debug\net7.0\Note.BL.pdb
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\obj\Debug\net7.0\ref\Note.BL.dll

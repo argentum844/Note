@@ -1,0 +1,7 @@
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.WebAPI\obj\Debug\net7.0\Note.WebAPI.csproj.AssemblyReference.cache
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.WebAPI\obj\Debug\net7.0\Note.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.WebAPI\obj\Debug\net7.0\Note.WebAPI.AssemblyInfoInputs.cache
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.WebAPI\obj\Debug\net7.0\Note.WebAPI.AssemblyInfo.cs
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.WebAPI\obj\Debug\net7.0\Note.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.WebAPI\obj\Debug\net7.0\Note.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.WebAPI\obj\Debug\net7.0\Note.WebAPI.MvcApplicationPartsAssemblyInfo.cache

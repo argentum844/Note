@@ -1,0 +1,11 @@
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.DataAccess\bin\Debug\net7.0\Note.DataAccess.deps.json
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.DataAccess\bin\Debug\net7.0\Note.DataAccess.dll
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.DataAccess\bin\Debug\net7.0\Note.DataAccess.pdb
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.DataAccess\obj\Debug\net7.0\Note.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.DataAccess\obj\Debug\net7.0\Note.DataAccess.AssemblyInfoInputs.cache
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.DataAccess\obj\Debug\net7.0\Note.DataAccess.AssemblyInfo.cs
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.DataAccess\obj\Debug\net7.0\Note.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.DataAccess\obj\Debug\net7.0\Note.DataAccess.dll
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.DataAccess\obj\Debug\net7.0\refint\Note.DataAccess.dll
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.DataAccess\obj\Debug\net7.0\Note.DataAccess.pdb
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.DataAccess\obj\Debug\net7.0\ref\Note.DataAccess.dll
