@@ -1,0 +1,3 @@
+﻿  SelfOrganizingList.cpp
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\SelfOrganizingList\SelfOrganizingList\SelfOrganizingList.cpp(209): warning C4715: SelfOrderedLIST<int>::iterator::operator*: значение возвращается не при всех путях выполнения
+  SelfOrganizingList.vcxproj -> C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\SelfOrganizingList\x64\Debug\SelfOrganizingList.exe
