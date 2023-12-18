@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9nDG4LyFRCNR7MIppL6vnLsP4OoZN1uc6454dtxuuGImsEJwhqooGcfD1WdmBx243AwPnKFTe99TqQcxCN4rdg==",
+  "dgSpecHash": "PKZzH4T0AoMa+xtWGAWrdFWOSFACMWLc49bU7dLVG8hXgRjxLPQ7JKnlKfVUSycXQFWgQ4GLeBklCEqTvTNe1g==",
   "success": true,
   "projectFilePath": "C:\\Users\\osink\\OneDrive\\Рабочий стол\\VebHnya\\МС\\Note\\Note\\Note.DataAccess\\Note.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,7 @@
     "C:\\Users\\osink\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.13\\microsoft.entityframeworkcore.design.7.0.13.nupkg.sha512",
     "C:\\Users\\osink\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.13\\microsoft.entityframeworkcore.relational.7.0.13.nupkg.sha512",
     "C:\\Users\\osink\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.13\\microsoft.entityframeworkcore.sqlserver.7.0.13.nupkg.sha512",
+    "C:\\Users\\osink\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.13\\microsoft.entityframeworkcore.tools.7.0.13.nupkg.sha512",
     "C:\\Users\\osink\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\osink\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\osink\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

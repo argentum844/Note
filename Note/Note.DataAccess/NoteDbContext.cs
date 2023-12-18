@@ -12,12 +12,9 @@ public class NoteDbContext : DbContext
     public DbSet<QuestionEntity> Questions { get; set; }
     public DbSet<RulesEntity> Rules { get; set; }
     public DbSet<SessionEntity> Sessions { get; set; }
-
-
     public NoteDbContext(DbContextOptions options) : base(options)
     {
     }
-
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<UserEntity>().HasKey(x => x.Id);

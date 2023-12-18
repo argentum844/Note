@@ -13,3 +13,5 @@ C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\b
 C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\bin\Debug\net7.0\Note.DataAccess.pdb
 C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\obj\Debug\net7.0\Note.BL.csproj.AssemblyReference.cache
 C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\obj\Debug\net7.0\Note.BL.csproj.CopyComplete
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\bin\Debug\net7.0\Note.BL.runtimeconfig.json
+C:\Users\osink\OneDrive\Рабочий стол\VebHnya\МС\Note\Note\Note.BL\obj\Debug\net7.0\Note.BL.genruntimeconfig.cache

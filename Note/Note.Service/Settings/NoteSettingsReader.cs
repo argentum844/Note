@@ -3,7 +3,7 @@ using Note.Service.Settings;
 
 namespace Note.Service.Settings
 {
-    public static class NoteSettingsReader
+    public class NoteSettingsReader
     {
         public static NoteSettings Read(IConfiguration configuration)
         {
