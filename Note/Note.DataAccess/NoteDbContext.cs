@@ -39,10 +39,12 @@ namespace Note.DataAccess
             modelBuilder.Entity<ListEditorEntity>().HasIndex(x => new { x.EditorId, x.DocumentId }).IsUnique();
             modelBuilder.Entity<ListEditorEntity>().HasOne(x => x.Document)
                 .WithMany(x => x.ListEditors)
-                .HasForeignKey(x => x.DocumentId);
+                .HasForeignKey(x => x.DocumentId)
+                .OnDelete(DeleteBehavior.NoAction);
             modelBuilder.Entity<ListEditorEntity>().HasOne(x => x.Editor)
                 .WithMany(x => x.ListEditors)
-                .HasForeignKey(x => x.EditorId);
+                .HasForeignKey(x => x.EditorId)
+                .OnDelete(DeleteBehavior.NoAction);
 
             modelBuilder.Entity<QuestionEntity>().HasKey(x => x.Id);
             modelBuilder.Entity<QuestionEntity>().HasIndex(x => x.ExternalId).IsUnique();
