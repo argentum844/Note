@@ -8,7 +8,10 @@ namespace Note.Service.Settings
         public static NoteSettings Read(IConfiguration configuration)
         {
             // здесь будет чтение настроек приложения из конфига
-            return new NoteSettings();
+            return new NoteSettings()
+            {
+                NoteDbContextConnectionString = configuration.GetValue<string>("NoteDbContext")
+            };
         }
     }
 }
